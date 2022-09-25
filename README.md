@@ -2,7 +2,7 @@
 - 👀 I’m much interested in front-end development and design
 - 🌱 I’m currently learning ReactJs, Flutter and Django framework to develop my skills on web and mobile applications
 - 💞️ I’m looking to collaborate with a team of web developers, working on interesting web projects
-- 📫 How to reach me :
+- 📫 How to further reach me :
   - LinkedIn Profile: https://www.linkedin.com/in/arsene-demenou
   - Twitter Profile: https://twitter.com/guekoue
 
