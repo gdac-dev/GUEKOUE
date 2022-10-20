@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GUEKOUE_ARSENE
-- 👀 I’m much interested in front-end development and design
+- 👀 I’m much interested in front-end development and design (both web and mobile)
 - 🌱 I’m currently learning ReactJs, Flutter and Django framework to develop my skills on web and mobile applications
 - 💞️ I’m looking to collaborate with a team of web developers, working on interesting web projects
 - 📫 How to further reach me :
